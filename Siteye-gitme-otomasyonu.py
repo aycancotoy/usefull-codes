@@ -4,7 +4,7 @@ import time
 #seleniumun web sitesinden indirdiğimiz chrome sürümümüze uygun olan sürümün yolunu belirtiyoruz.
 browser = webdriver.Chrome("C://Users//Acer//Desktop//chromedriver_win32//chromedriver.exe")
 
-#siteyi get komutu ile alıyoruz.
+#siteyi get komutu ile alıyoruz..
 browser.get("https://www.forbes.com/the-worlds-most-valuable-brands/#6ccb89e3119c")
 
 #content ya da başlık almak için page source'u kullanıyoruz.
